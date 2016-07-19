@@ -1,0 +1,22 @@
+.page-header {
+    color: #E34A09;
+    text-align: center;
+}
+
+.media {
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.media-left {
+    padding-right: 50px;
+}
+
+#cityName {
+    color: #E34A09;
+}
+
+.glyphicon-refresh {
+    padding-left: 5px;
+}
